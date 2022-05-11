@@ -1,26 +1,42 @@
-# github-test
+# markdoen
 
-## Project setup
-```
-npm install
+```javascript
+
+function (name) {
+
+    return name ;
+
+    // this is raturn func
+
+}
+
+
+
+
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+<p> hello </p>
+
+<img src="i.jpg">
+
+```php
+
+  function ($name){
+     return $name ;
+
+    //  this is return func
+  }
+
 ```
 
-### Compiles and minifies for production
-```
-npm run build
+```sql
+
+select * from 
+
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```laravel
 
-### name 
-```
+Route::get('/',[controller::class,'method'])
  
- Mina Ata Yousif
-
 ```
